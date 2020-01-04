@@ -1,0 +1,10 @@
+# Ignore extensions
+*.exe
+
+# Ignore directories
+A\*/
+
+# Ignore files
+*.DS_Store
+solution_pina.dat
+spain.csv
